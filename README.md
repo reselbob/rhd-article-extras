@@ -3,4 +3,4 @@ This repository contains extras for articles published on [Red Hat Developer](ht
 
 # Contents
 * [Develop Eclipse MicroProfile applications on Red Hat JBoss Enterprise Application Platform 7.3](./eclipse-microprofile/readme.md)
-* [RHEL 8 Cheat Sheet](./rhel-8-cheatsheet/readme.md)a
+* [RHEL 8 Cheat Sheet](./rhel-8-cheatsheet/readme.md)
